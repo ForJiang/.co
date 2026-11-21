@@ -1,8 +1,8 @@
 # .co
 
-> 部署测试草稿仓库：Azure Web Apps Node.js 部署工作流模板 + 一个 Keynote webarchive，无实际项目代码
+> 部署测试草稿仓库
 >
-> Scratch repo for deployment tests: an Azure Web Apps Node.js workflow template and a Keynote webarchive, no actual project code
+> Scratch repo for deployment tests
 
 ## 这是什么 / What is this
 
@@ -21,3 +21,5 @@
 ## Author / 作者
 
 **ForJiang** · [github.com/ForJiang](https://github.com/ForJiang)
+
+License: [GPL-3.0](LICENSE) © 2026 ForJiang
